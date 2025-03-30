@@ -14,19 +14,21 @@ for (let i = 1; i < 100; i+= 2 ) {
     if (i % 3 === 0) { 
     console.log(`${i}: 3 kelipatan 3`)
     }
-}
+};
 
-//
+
 
 for (let j = 1; j < 100; j+= 5) {
     if (j % 6 === 0) {
         console.log(`${j}: 6 kelipatan 6`)
    }
-}
+};
+
+
 
 for (let k = 1; k < 100; k+= 9) {
     if (k % 10 === 0) {
         console.log(`${k}: 10 kelipatan 10`)
     }
-}
+};
 
